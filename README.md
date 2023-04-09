@@ -1,3 +1,4 @@
-# Linear Regression Model in Python
+# Linear Regression Models in Python
 
- A linear regression model in Python using the scikit-learn package
+### Diabetes_Linear_Regression
+A linear regression model in Python using the diabetes dataset (via scikit-learn)
