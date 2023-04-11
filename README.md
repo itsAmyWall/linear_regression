@@ -1,4 +1,7 @@
 # Linear Regression Models in Python
 
 ### Diabetes_Linear_Regression
-A linear regression model in Python using the diabetes dataset (via scikit-learn)
+In this project, I developed a linear regression model in Python using the diabetes dataset provided by scikit-learn. After loading and preprocessing the dataset, I used an 80/20 data split to create a training set and a testing set. The training set, which accounted for 80% of the data, was used to train the machine learning model, while the testing set, which accounted for the remaining 20% of the data, was used to evaluate the model's performance and assess its ability to generalize to new, unseen data. I also used data visualization techniques to visualize the relationship between the independent variables and the dependent variable. The project demonstrated my proficiency in data preprocessing, model building, and model evaluation using Python's scikit-learn library, as well as my ability to develop highly accurate and robust predictive models.
+
+### Advertising_Linear_Regression
+As part of a data analysis project, I cleaned and prepared an advertising dataset (advertising.csv) for analysis. I then built a linear regression model to examine the relationship between TV advertising spending and sales, evaluated the model's accuracy and statistical significance, and generated data visualizations to illustrate the results of the analysis. This project demonstrated my proficiency in data cleaning, modeling, and visualization, as well as my ability to draw meaningful conclusions and make data-driven recommendations.
